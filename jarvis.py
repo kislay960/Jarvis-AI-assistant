@@ -54,8 +54,8 @@ def wishMe():
     speak(date)
     speak(month)
     speak(year)
-    speak("Jarvis at your Service. Please tell me how can I help You?"
-    speak("I can tell you today's date, current time, send email to anyone, take a screenshot, tell you CPU stats,"
+    speak("Jarvis at your Service. Please tell me how can I help You?")
+    speak("I can tell you today's date, current time, send email to anyone, take a screenshot, tell you CPU stats,")
     speak("update you about covid, tell you a joke, open and search chrome, search wikipedia and update you with the weather in a city. ")
 
 def sendEmail(to, content):
